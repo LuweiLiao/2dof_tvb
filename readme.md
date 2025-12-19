@@ -4,11 +4,9 @@
 
 [![Video](https://img.youtube.com/vi/zsB7oTcueuI/maxresdefault.jpg)](https://www.youtube.com/watch?v=zsB7oTcueuI)
 
-**点击上方图片在新窗口播放视频**
+**Click the image above to play the video in a new window.**
 
 </div>
-
-> 💡 **说明**：由于GitHub README不支持直接嵌入视频播放器，点击图片将在新标签页打开YouTube视频页面进行播放。
 
 # 2DOF Thrust-Vectoring Bicopter (2DOF-TVB)
 ## Large-Pitch Maneuvers Enabled by Quaternion Finite-Time Control (Blog-style Overview)
