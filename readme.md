@@ -1,5 +1,17 @@
 ## Video
-[![Video](https://img.youtube.com/vi/zsB7oTcueuI/0.jpg)](https://www.youtube.com/watch?v=zsB7oTcueuI)
+[![Video](https://img.youtube.com/vi/zsB7oTcueuI/0.jpg)](docs/video.html)
+
+> 点击上方图片观看视频演示（需要启用GitHub Pages，详见下方说明）  
+> 或直接访问：[YouTube视频链接](https://www.youtube.com/watch?v=zsB7oTcueuI)
+
+**启用GitHub Pages以在项目主页显示视频：**
+1. 进入仓库 **Settings** → **Pages**
+2. 选择 **Source**: `Deploy from a branch`
+3. 选择分支：`main` (或 `master`)
+4. 选择文件夹：`/docs`
+5. 点击 **Save**
+
+部署完成后，视频页面将可通过 `https://YOUR_USERNAME.github.io/2dof_tvb_read/video.html` 访问。
 
 # 2DOF Thrust-Vectoring Bicopter (2DOF-TVB)
 ## Large-Pitch Maneuvers Enabled by Quaternion Finite-Time Control (Blog-style Overview)
