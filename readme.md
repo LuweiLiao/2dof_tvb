@@ -2,8 +2,7 @@
 
 <div align="center">
 
-[![Video](https://img.youtube.com/vi/zsB7oTcueuI/maxresdefault.jpg)](https://www.youtube.com/watch?v=zsB7oTcueuI)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zsB7oTcueuI?si=m3u-ADEj8Cbmsu9O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 **Click the image above to play the video in a new window.**
 
 </div>
