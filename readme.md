@@ -1,6 +1,8 @@
 ## Video
  Video is available at [https://www.bilibili.com/video/BV1ngmABFEDE?vd_source=e7c7ff47b0b651b1e2d4cc436169ce14]{https://www.bilibili.com/video/BV1ngmABFEDE?vd_source=e7c7ff47b0b651b1e2d4cc436169ce14}
 
+title: 2DOF TVB
+product_video: 'https://www.bilibili.com/video/BV1ngmABFEDE?vd_source=e7c7ff47b0b651b1e2d4cc436169ce14'
  
 
 # 2DOF Thrust-Vectoring Bicopter (2DOF-TVB)
