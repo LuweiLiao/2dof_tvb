@@ -1,3 +1,8 @@
+## Video
+ Video is available at [https://www.bilibili.com/video/BV1ngmABFEDE?vd_source=e7c7ff47b0b651b1e2d4cc436169ce14]{https://www.bilibili.com/video/BV1ngmABFEDE?vd_source=e7c7ff47b0b651b1e2d4cc436169ce14}
+
+ 
+
 # 2DOF Thrust-Vectoring Bicopter (2DOF-TVB)
 ## Large-Pitch Maneuvers Enabled by Quaternion Finite-Time Control (Blog-style Overview)
 
@@ -64,6 +69,5 @@ A prototype implementation is described with typical research-grade avionics (e.
 ## Citation
 If you reference this project write-up, please cite the original paper included in this repository.
 
-## Video
- Video is available at [https://www.bilibili.com/video/BV1ngmABFEDE?vd_source=e7c7ff47b0b651b1e2d4cc436169ce14]{https://www.bilibili.com/video/BV1ngmABFEDE?vd_source=e7c7ff47b0b651b1e2d4cc436169ce14}
+
 
