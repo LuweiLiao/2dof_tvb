@@ -1,11 +1,6 @@
 ## Video
 
-<div align="center">
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zsB7oTcueuI?si=m3u-ADEj8Cbmsu9O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-**Click the image above to play the video in a new window.**
-
-</div>
 
 # 2DOF Thrust-Vectoring Bicopter (2DOF-TVB)
 ## Large-Pitch Maneuvers Enabled by Quaternion Finite-Time Control (Blog-style Overview)
